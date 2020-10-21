@@ -1,0 +1,30 @@
+*{
+    color: #30475e;
+    font-family: Roboto, sans-serif;
+}
+body {
+    background-color: #cbaf87;
+}
+nav{
+    text-align: center;
+    color: rgb(31,183,221);
+    position: sticky;
+    z-index: 100;
+    top: 0;
+    background-color: #7e8a97;
+}
+a:link{
+    color: rgb(31,183,221);
+}
+a:visited{
+    color: silver;
+}
+section{
+    background-color: #e7dec8;
+}
+h3{
+    text-align: center;
+}
+img{
+    padding-right: 10px;
+}
